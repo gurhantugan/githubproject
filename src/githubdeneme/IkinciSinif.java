@@ -5,6 +5,7 @@ public class IkinciSinif {
         System.out.println("sakarya");
         System.out.println("eskisehir");
         System.out.println("baglarbasi");
+        System.out.println("sakaribasi");
 
     }
 }
