@@ -10,6 +10,7 @@ public class Main {
         System.out.println("1975");
         System.out.println("Duhok");
         System.out.println("Kurdistan ");
+        System.out.println("Erbil Ishik College");
 
 
     }
