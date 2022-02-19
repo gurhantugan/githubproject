@@ -6,6 +6,7 @@ public class Class02 {
         System.out.println("eskisehir");
         System.out.println("baglarbasi");
         System.out.println("sakaribasi");
+        //buraya githubtan bunu yazdim
 
     }
 }
