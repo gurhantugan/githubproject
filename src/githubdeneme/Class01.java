@@ -1,7 +1,7 @@
 package githubdeneme;
 
 
-public class Main {
+public class Class01 {
     public static void main(String[]args){
 
         System.out.println("Gurhan");
