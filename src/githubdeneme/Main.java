@@ -8,6 +8,8 @@ public class Main {
         System.out.println("Tugan");
         System.out.println("Denizli");
         System.out.println("1975");
+        System.out.println("Duhok");
+        System.out.println("Kurdistan ");
 
     }
 
