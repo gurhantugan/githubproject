@@ -7,6 +7,9 @@ public class Class02 {
         System.out.println("baglarbasi");
         System.out.println("sakaribasi");
         //buraya githubtan bunu yazdim
+        String a="java"
+           String d= "qwyuwquy"
+            
 
     }
 }
